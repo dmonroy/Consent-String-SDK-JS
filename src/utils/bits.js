@@ -339,5 +339,6 @@ module.exports = {
   decodeBitsToBool,
   decodeBitsToLanguage,
   decodeBitsToLetter,
+  decodeFields,
   decodeFromBase64,
 };
